@@ -1,0 +1,56 @@
+body {
+	color: rgb(2,2,2);
+	background-color:#FAFAFA;
+	font-family: 'Fira Sans', Verdana, sans-serif, Arial, Helvetica;
+	line-height: 1.6;
+	padding:2rem;
+	margin:auto;
+}
+
+
+img {
+	margin: 0 auto;
+}
+
+a {
+	color:#FF4444;
+}
+
+h1,h2, h4, strong {
+	color:#010101;
+	padding: 0px;
+	margin: 0px;
+}
+
+.ueberschrift1, .ueberschrift2 {
+	background: #444444;
+	color: white;
+}
+
+.ueberschrift1{
+	margin: -2rem -2rem 0 -2rem;
+	padding: 20px 0 0 20px;
+}
+
+.ueberschrift2{
+	margin: -10px -2rem 0 -2rem;
+	padding: 0 0 20px 20px;
+	border-bottom: 5px solid #fcd202;
+}
+
+footer {
+	background: #444444;
+	border-top: 5px solid #fcd202;
+}
+
+.footer-text1, .footer-text2 {
+	font-family: 'Fira Sans', Verdana, sans-serif, Arial, Helvetica;
+	color: white;
+	text-align: center;
+}
+
+.footer-text2 {
+	font-size: 8pt;
+	margin-top: -15px;
+	padding-bottom: 20px;
+}
